@@ -1,4 +1,4 @@
-Hi!
+Hi World!
 
 Current config: Android Studio and Kotlin running in Windows 10 and a Motorola G Power phone running Android 11
 
@@ -8,9 +8,7 @@ The Kotlin language is beautiful. And the compiler runs ultra fast. One of the t
 
 I'm looking into getting a database running for my next app, but that is going slow. I finally got a sample Android Open Source Project from GitHub running in the studio that I'm reading now. 
 
-But I still haven't pushed any files over to GitHub. Not that I know of anyway. Thank 
-
-I'll try gist to send some lines over, then to push one app in. One I have is of great interest as a template for future releases. I figured out how to get fragments to slide with active independent toolbars and buttons. 
+I'll try gist to send some lines over, then push one app in. One I have is of great interest as a template for future releases. I figured out how to get fragments to slide with active independent toolbars and buttons. 
 
 I do all of my work with the incredible helpful help at developer.android.com, kotlinlang.org, StackOverflow.com. And play.kotlinlang.org is really fun. And now it looks like GitHub has tons of material and help. 
 
